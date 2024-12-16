@@ -1,16 +1,16 @@
-## Hi there 👋
+ ## Hi 👋 ,  I'm Tamar
 
-<!--
-**tamarShapira/tamarShapira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### _"in development, as in life, it's important not to be afraid of making mistakes – every failure is an opportunity to learn and improve"_
 
-Here are some ideas to get you started:
+A Full Stack Developer with practical experience in web-based projects, bringing a genuine passion for tech
+product development. In my work on various projects, I have excelled in thorough work, effective bug
+resolution, and high-quality code, consistently aiming for excellence. A knowledge seeker at heart, I enjoy
+expanding my technical skills through professional articles and online courses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥 Full-stack developer
+
+📫 How to reach me: tmr0172@gmail.com
+
+⚡ Specializes in web development, with an emphasis on user-friendly interfaces.
+
+🌱 Eager to learn and grow in the tech industry and make a positive impact on the world.
